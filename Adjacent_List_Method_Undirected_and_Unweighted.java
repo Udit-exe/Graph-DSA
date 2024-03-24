@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class hello{
+public class Adjacent_List_Method_Undirected_and_Unweighted{
 
   //Edge Defination.
 	static class Edge{
