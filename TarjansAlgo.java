@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class tarjansAlgo{
+public class TarjansAlgo{
   static class Edge{
     int src;
     int dest;
