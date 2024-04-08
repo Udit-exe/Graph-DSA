@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TarjansAlgo{
+public class KosarajuAlgorithm{
   static class Edge{
     int src;
     int dest;
